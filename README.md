@@ -1,4 +1,4 @@
-# Assignment_2_DA_MTL_AQA
+# DA_MTL_AQA
 
  ![image](https://user-images.githubusercontent.com/68587770/202898419-9e0ac8b7-7a2f-4c7a-884c-e6af81d5b175.png)
 
